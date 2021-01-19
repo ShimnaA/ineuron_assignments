@@ -5,3 +5,4 @@
 - Python Assignment 3: List Comprehensions, implement myreduce(), myfilter()
 - Python Assignment 4: class example, list functions
 - Assignment Exception Handling: ZeroDivisionError handling, generate sentences
+- Datacleaning Pandas: Pandas exercise - tidy up data containing malformed strings
