@@ -6,3 +6,4 @@
 - Python Assignment 4: class example, list functions
 - Assignment Exception Handling: ZeroDivisionError handling, generate sentences
 - Datacleaning Pandas: Pandas exercise - tidy up data containing malformed strings
+- Numpy Assigment: Matrix with Geometric progression, Find Moving average in an array over a window
