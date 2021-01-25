@@ -7,3 +7,5 @@
 - Assignment Exception Handling: ZeroDivisionError handling, generate sentences
 - Datacleaning Pandas: Pandas exercise - tidy up data containing malformed strings
 - Numpy Assigment: Matrix with Geometric progression, Find Moving average in an array over a window
+- Data Visualization Assignment : iris dataset transform to 3 dimension and plot 3d chart
+- matplotlib : plot piechart, scatter plot on titanic dataset, plot a periodic function
